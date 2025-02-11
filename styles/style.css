@@ -132,9 +132,8 @@ ol {
 	color: #fff;
 	text-transform: uppercase;
 	text-overflow: ellipsis;
-	white-space: nowrap; 
+	white-space: nowrap;
 }
-
 
 .content__video-card-description {
 	overflow: hidden;
